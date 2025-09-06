@@ -17,8 +17,8 @@
   },
   "homepage": "https://github.com/notsocj/SDCA-IT303-API#readme",
   "dependencies": {
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "mongoose": "^8.18.0"
   },
-  "devDependencies": {},
   "description": ""
 }
