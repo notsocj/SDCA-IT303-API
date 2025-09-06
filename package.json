@@ -1,0 +1,24 @@
+{
+  "name": "sdca-it303-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/notsocj/SDCA-IT303-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/notsocj/SDCA-IT303-API/issues"
+  },
+  "homepage": "https://github.com/notsocj/SDCA-IT303-API#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
